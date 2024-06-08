@@ -1,0 +1,21 @@
+.card {
+  border-width: 1.5px;
+  border-color: black;
+  border-radius: 0%;
+}
+
+.tab-space {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.no-space {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.no-space > .col,
+.no-space > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
