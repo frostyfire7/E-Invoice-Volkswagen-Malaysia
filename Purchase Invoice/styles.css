@@ -1,0 +1,59 @@
+.title {
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  margin-top: 1rem;
+  margin-left: 0.25rem;
+}
+
+.line {
+  border-bottom: 1px solid black;
+  line-height: 1.5;
+}
+
+.details {
+  font-size: large;
+  margin-left: 0.25rem;
+}
+
+.title1 {
+  font-family: Arial, sans-serif;
+}
+
+.header1 {
+  background-color: #e0e0e0;
+  line-height: 1.5;
+  padding: 5px;
+}
+
+.details1 {
+  margin-left: 0.25rem;
+}
+
+.invoice {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: #d3d3d3;
+  padding: 5px;
+  text-align: start;
+}
+
+.title2 {
+  line-height: 2rem;
+}
+
+.statement {
+  line-height: 2rem;
+}
+
+.shipment {
+  line-height: 2rem;
+}
+
+.tab-space {
+  display: inline-block;
+  margin-left: 1.5rem;
+}
