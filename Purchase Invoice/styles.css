@@ -57,3 +57,17 @@
   display: inline-block;
   margin-left: 1.5rem;
 }
+
+.border-gray {
+  border-left: #d3d3d3 solid 2px;
+  border-bottom: #d3d3d3 solid 2px;
+  border-right: #d3d3d3 solid 2px;
+  border-top: #d3d3d3 solid 2px;
+}
+
+.border-table {
+  border-left: black solid 1px;
+  border-bottom: black solid 1px;
+  border-right: black solid 1px;
+  border-top: black solid 1px;
+}
